@@ -1,7 +1,4 @@
 # change this path to the input file
-from requests import get
-
-
 input_path = "2025/07_input.txt"
 
 
